@@ -9,7 +9,7 @@
   rakshekunal2@gmail.com
   
 ## Connect with me
-- LinkedIn: <a href="https://www.linkedin.com/in/kunal-rakshe/">
+- LinkedIn: <a href="https://www.linkedin.com/in/kunal-rakshe-128a38318">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
 
