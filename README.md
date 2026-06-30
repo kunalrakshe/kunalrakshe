@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋, I'm Kunal Rakshe
 
-<!--
-**kunalrakshe/kunalrakshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst
 
-Here are some ideas to get you started:
+- 🌱 I'm Learning Power BI, SQL, Excel, Python
+- 📊 Working on Data Analytics Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me
+  rakshekunal2@gmail.com
+  
+## Connect with me
+- LinkedIn: <a href="https://www.linkedin.com/in/kunal-rakshe/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+</a>
+
+## Languages & Tools
+Excel | SQL | Power BI | Python
